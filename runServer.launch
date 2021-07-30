@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="FORGE_GROUP" value="net.minecraftforge"/>
+        <mapEntry key="FORGE_VERSION" value="36.1.0"/>
+        <mapEntry key="MCP_MAPPINGS" value="official_1.16.5"/>
+        <mapEntry key="MCP_VERSION" value="20210115.111550"/>
+        <mapEntry key="MC_VERSION" value="1.16.5"/>
+        <mapEntry key="MOD_CLASSES" value="examplemod%%G:\Minecraft Mods\Ben 10 Mod\Code\bin\main;examplemod%%G:\Minecraft Mods\Ben 10 Mod\Code\bin\main"/>
+        <mapEntry key="target" value="fmluserdevserver"/>
+    </mapAttribute>
+    <listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+        <listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.minecraftforge.userdev.LaunchTesting"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value=""/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Code"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="G:\Minecraft Mods\Ben 10 Mod\Code\run"/>
+</launchConfiguration>
